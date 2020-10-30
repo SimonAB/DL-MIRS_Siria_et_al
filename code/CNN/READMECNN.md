@@ -36,7 +36,7 @@ The following pre-trained models are provided:
 
 <h2> Model Sensitivity </h2>
 
-The sensitivity of the models is considered demonstrating sensitivity in useful wavenumbers:
+The sensitivity of the models is considered demonstrating sensitivity in useful wavenumber values:
 
 ![ScreenShot](/code/imgs/sensitivity.png)
 
