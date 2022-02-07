@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/296672842.svg)](https://zenodo.org/badge/latestdoi/296672842)
+
 # Rapid age-grading and species identification of natural mosquitoes for malaria surveillance
 
 Doreen J. Siria, Roger Sanou, Joshua Mitton, Emmanuel P. Mwanga, Abdoulaye Niang, Issiaka Sare, Paul C.D. Johnson, Geraldine Foster, Adrien M.G. Belem, Klaas Wynne, Roderick Murray-Smith, Heather M. Ferguson, Mario González-Jiménez, Simon A. Babayan, Abdoulaye Diabaté, Fredros O. Okumu, and Francesco Baldini
