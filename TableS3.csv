@@ -1,0 +1,25 @@
+Study Laboratory Variation (LV)
+Data from group LV only.
+8224 mosquito data points.
+"Data from Tanzania, Burkina Faso, UK."
+"Data balanced, where possible, by country, species, and age groups."
+Study Genetic Variation (GV)
+Data from groups LV and GV.
+4800 mosquito data points from group A and 2400 mosquito data points from group B.
+Data from Tanzania and Burkina Faso only.
+"Data balanced by country, species, and age groups."
+Testing data set is a 10% split of group GV data only.
+Study Environmental Variation (EV)
+Implicit use of data from groups LV and GV (7200 data points)
+Data from groups EV.
+A varying number of data points from EV group.
+EV data from Tanzania and Burkina Faso only.
+"Data balanced by country, species, and age groups for groups LV and GV, and balanced where possible for group EV."
+Testing data set is a hold out data set of 180 EV data points not included in the training set.
+Study Wild Populations
+Implicit use of data from groups LV and GV (7200 data points)
+Data from wild mosquitoes.
+"Data balanced by country, species, and age groups for groups LV and GV, and unbalanced for wild group."
+"In Burkina Faso, the transfer learning with the wild data set is composed by 205 G0, 104 G1, 26 G234 (total 335 data points, 4.4% of the whole training set)."
+"In Tanzania, the transfer learning with the wild data set is composed by 168 G0, 573 G1, 17 G234 (total 758 data points, 9.5% of the whole training set)."
+Testing data set is wild data set of 568 (Burkina Faso) and 834 (Tanzania) non-dissected mosquito data points not included in the training set. 

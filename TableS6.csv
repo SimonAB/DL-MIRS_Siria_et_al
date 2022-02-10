@@ -1,0 +1,81 @@
+﻿Location,Species,Date of collection ,Date of dissection ,Dissected,,,,,,Not dissected
+,,,,0 cycle ,1 cycle,2 cycles,3 cycles,4 cycles,Oocytes under development,
+VK5 - Burkina Faso,Anopheles coluzzii,15/05/2021,15/05/2021,4,1,1,0,0,4,10
+VK5 - Burkina Faso,Anopheles coluzzii,19/05/2021,19/05/2021,5,0,0,0,0,0,5
+VK5 - Burkina Faso,Anopheles coluzzii,23/05/2021,25/05/2021,4,0,1,0,0,0,5
+VK5 - Burkina Faso,Anopheles coluzzii,27/05/2021,08/06/2021,12,0,0,0,0,0,12
+VK5 - Burkina Faso,Anopheles coluzzii,31/05/2021,21/06/2021,4,2,1,0,0,5,12
+VK5 - Burkina Faso,Anopheles coluzzii,04/06/2021,14/07/2021,9,0,0,0,0,0,9
+VK5 - Burkina Faso,Anopheles coluzzii,08/06/2021,17/05/2021,2,1,0,0,0,14,16
+VK5 - Burkina Faso,Anopheles coluzzii,12/06/2021,21/05/2021,5,1,1,1,0,16,24
+VK5 - Burkina Faso,Anopheles coluzzii,16/06/2021,27/05/2021,6,2,0,0,0,15,24
+VK5 - Burkina Faso,Anopheles coluzzii,20/06/2021,10/06/2021,28,12,1,0,0,6,50
+VK5 - Burkina Faso,Anopheles coluzzii,24/06/2021,23/06/2021,1,15,2,1,0,81,100
+VK5 - Burkina Faso,Anopheles coluzzii,28/06/2021,16/07/2021,43,3,0,0,0,6,52
+VK5 - Burkina Faso,Anopheles coluzzii,02/07/2021,18/05/2021,2,0,1,0,0,10,13
+VK5 - Burkina Faso,Anopheles coluzzii,06/07/2021,22/05/2021,0,0,0,0,0,6,6
+VK5 - Burkina Faso,Anopheles coluzzii,10/07/2021,28/05/2021,0,1,0,1,0,18,21
+VK5 - Burkina Faso,Anopheles coluzzii,14/07/2021,11/06/2021,14,11,4,1,0,0,30
+VK5 - Burkina Faso,Anopheles coluzzii,18/07/2021,24/06/2021,17,27,6,3,0,27,80
+VK5 - Burkina Faso,Anopheles coluzzii,22/07/2021,17/07/2021,49,26,2,0,0,19,96
+Total VK5,Anopheles coluzzii,-,-,205,102,20,7,0,227,565
+Sululu - Tanzania,Anopheles arabiensis,04/05/2021,04/05/2021,15,14,1,0,0,0,30
+Sululu - Tanzania,Anopheles arabiensis,07/05/2021,07/05/2021,2,14,0,0,0,9,25
+Sululu - Tanzania,Anopheles arabiensis,11/05/2021,11/05/2021,4,20,0,0,0,1,25
+Sululu - Tanzania,Anopheles arabiensis,18/05/2021,18/05/2021,2,13,0,0,0,3,18
+Sululu - Tanzania,Anopheles arabiensis,21/05/2021,21/05/2021,3,20,0,0,0,2,25
+Sululu - Tanzania,Anopheles arabiensis,25/05/2021,25/05/2021,6,16,0,0,0,3,25
+Sululu - Tanzania,Anopheles arabiensis,29/05/2021,29/05/2021,2,14,0,0,0,4,20
+Sululu - Tanzania,Anopheles arabiensis,04/06/2021,04/06/2021,8,15,0,0,0,7,30
+Sululu - Tanzania,Anopheles arabiensis,08/06/2021,08/06/2021,7,20,0,0,0,3,30
+Sululu - Tanzania,Anopheles arabiensis,15/06/2021,15/06/2021,4,21,2,0,0,0,27
+Sululu - Tanzania,Anopheles arabiensis,18/06/2021,18/06/2021,6,15,2,0,0,0,23
+Sululu - Tanzania,Anopheles arabiensis,22/06/2021,22/06/2021,3,27,2,0,0,3,35
+Sululu - Tanzania,Anopheles arabiensis,25/06/2021,25/06/2021,6,15,0,0,0,3,24
+Sululu - Tanzania,Anopheles arabiensis,29/06/2021,29/06/2021,15,8,0,0,0,0,23
+Sululu - Tanzania,Anopheles arabiensis,02/07/2021,02/07/2021,10,10,0,0,0,0,20
+Sululu - Tanzania,Anopheles arabiensis,06/07/2021,06/07/2021,6,9,0,0,0,0,15
+Sululu - Tanzania,Anopheles arabiensis,13/07/2021,13/07/2021,4,7,0,0,0,0,11
+Sululu - Tanzania,Anopheles arabiensis,16/07/2021,16/07/2021,4,9,1,1,0,0,15
+Sululu - Tanzania,Anopheles arabiensis,20/07/2021,20/07/2021,5,3,0,0,0,1,9
+Sululu - Tanzania,Anopheles arabiensis,23/07/2021,23/07/2021,7,1,0,0,0,8,16
+Sululu - Tanzania,Anopheles arabiensis,30/07/2021,30/07/2021,1,5,0,1,0,1,8
+Sululu - Tanzania,Anopheles arabiensis,03/08/2021,03/08/2021,1,6,0,0,0,0,7
+Sululu - Tanzania,Anopheles arabiensis,06/08/2021,06/08/2021,4,5,0,0,0,0,9
+Sululu - Tanzania,Anopheles arabiensis,10/08/2021,10/08/2021,10,4,0,0,0,1,15
+Sululu - Tanzania,Anopheles arabiensis,13/08/2021,13/08/2021,3,3,0,0,0,11,17
+Sululu - Tanzania,Anopheles arabiensis,17/08/2021,17/08/2021,14,6,0,0,0,0,20
+Sululu - Tanzania,Anopheles arabiensis,24/08/2021,24/08/2021,8,7,0,0,0,3,18
+Sululu - Tanzania,Anopheles arabiensis,31/08/2021,31/08/2021,9,5,0,0,0,0,14
+Sululu - Tanzania,Anopheles arabiensis,27/04/2021,29/04/2021,0,21,1,1,0,2,25
+Sululu - Tanzania,Anopheles arabiensis,28/04/2021,30/04/2021,0,30,1,0,0,4,35
+Sululu - Tanzania,Anopheles arabiensis,29/04/2021,01/05/2021,5,41,1,0,0,3,50
+Sululu - Tanzania,Anopheles arabiensis,04/05/2021,06/05/2021,2,21,1,0,0,1,25
+Sululu - Tanzania,Anopheles arabiensis,07/05/2021,09/05/2021,1,13,0,0,0,1,15
+Sululu - Tanzania,Anopheles arabiensis,11/05/2021,13/05/2021,0,14,0,0,0,1,15
+Sululu - Tanzania,Anopheles arabiensis,15/05/2021,17/05/2021,0,14,0,0,0,0,14
+Sululu - Tanzania,Anopheles arabiensis,18/05/2021,20/05/2021,2,26,2,0,0,0,30
+Sululu - Tanzania,Anopheles arabiensis,21/05/2021,23/05/2021,2,21,1,0,0,1,25
+Sululu - Tanzania,Anopheles arabiensis,25/05/2021,27/05/2021,5,18,0,0,0,2,25
+Sululu - Tanzania,Anopheles arabiensis,29/05/2021,31/05/2021,1,15,1,0,0,3,20
+Sululu - Tanzania,Anopheles arabiensis,04/06/2021,06/06/2021,8,20,0,0,0,3,31
+Sululu - Tanzania,Anopheles arabiensis,08/06/2021,10/06/2021,9,14,1,0,0,1,25
+Sululu - Tanzania,Anopheles arabiensis,15/06/2021,17/06/2021,6,6,0,0,0,0,12
+Sululu - Tanzania,Anopheles arabiensis,18/06/2021,20/06/2021,3,11,0,0,0,0,14
+Sululu - Tanzania,Anopheles arabiensis,22/06/2021,24/06/2021,8,18,0,0,0,2,28
+Sululu - Tanzania,Anopheles arabiensis,29/06/2021,01/07/2021,10,16,0,0,0,0,26
+Sululu - Tanzania,Anopheles arabiensis,02/07/2021,04/07/2021,13,13,0,0,0,1,27
+Sululu - Tanzania,Anopheles arabiensis,06/07/2021,08/07/2021,5,12,0,0,0,0,17
+Sululu - Tanzania,Anopheles arabiensis,13/07/2021,15/07/2021,3,7,0,0,0,0,10
+Sululu - Tanzania,Anopheles arabiensis,16/07/2021,18/07/2021,3,15,2,0,0,0,20
+Sululu - Tanzania,Anopheles arabiensis,20/07/2021,22/07/2021,4,2,0,0,0,3,9
+Sululu - Tanzania,Anopheles arabiensis,23/07/2021,25/07/2021,3,9,0,0,0,4,16
+Sululu - Tanzania,Anopheles arabiensis,30/07/2021,01/08/2021,1,7,0,0,0,0,8
+Sululu - Tanzania,Anopheles arabiensis,03/08/2021,05/08/2021,1,2,0,0,0,2,5
+Sululu - Tanzania,Anopheles arabiensis,06/08/2021,08/08/2021,2,6,0,0,0,0,8
+Sululu - Tanzania,Anopheles arabiensis,10/08/2021,12/08/2021,8,8,0,0,0,0,16
+Sululu - Tanzania,Anopheles arabiensis,13/08/2021,15/08/2021,1,12,0,0,0,4,17
+Sululu - Tanzania,Anopheles arabiensis,17/08/2021,19/08/2021,3,14,0,0,0,1,18
+Sululu - Tanzania,Anopheles arabiensis,24/08/2021,26/08/2021,4,10,0,0,0,4,18
+Sululu - Tanzania,Anopheles arabiensis,31/08/2021,02/09/2021,6,4,0,0,0,2,12
+Total Sululu,Anopheles arabiensis,-,-,288,752,19,3,0,108,1170
