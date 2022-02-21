@@ -47,3 +47,15 @@ Developed on:
 ## Instructions for use
 
 Scripts for processing MIRS data, training models, and reproducing are provided as jupyter notebooks. Before you can run the scripts as provided, take care to start by updating the file paths pointing to the source data as per your directory structure.
+
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
